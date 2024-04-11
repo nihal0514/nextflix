@@ -1,3 +1,5 @@
+<img src=https://github.com/nihal0514/nextflix/assets/77735813/f894ccbf-5625-4127-b95f-a264af2eda56 width="300" height="600">
+
 <img src=https://github.com/nihal0514/nextflix/assets/77735813/2252809f-278e-4d04-b224-e407a8e980d1 width="300" height="600">
 
 <img src=https://github.com/nihal0514/nextflix/assets/77735813/6bd09bcf-11b0-4306-8750-cc4a479da13f width="300" height="600">
